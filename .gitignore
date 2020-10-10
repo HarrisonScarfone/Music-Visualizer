@@ -1,0 +1,9 @@
+*.wav
+*.mp3
+*.txt
+*.csv
+*.pyc
+
+note
+test*
+*test
